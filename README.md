@@ -13,6 +13,6 @@ I designed [FolksHall](https://www.figma.com/file/HsIzJYMrJsA6s4BXxCANmp/EventTi
 
 **Notes** 
 -----
-Kindly note that this figma link consist of two pages:
+Kindly note that this Figma link [FolksHall](https://www.figma.com/file/HsIzJYMrJsA6s4BXxCANmp/EventTips-Inc.?type=design&node-id=0%3A1&mode=design&t=hpgwlnB4goo9jED7-1) consist of two pages:
  - Wireframe page
  - Mockup page
